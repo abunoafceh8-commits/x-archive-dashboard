@@ -1,0 +1,20 @@
+{
+  "name": "x-archive-dashboard",
+  "title": "X Archive - أرشيف التغريدات المتقدم",
+  "category": "أدوات X",
+  "description": "لوحة استخراج روابط تغريدات X.",
+  "liveUrl": "https://x-archive-dashboard-bc6r.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "X Archive - أرشيف التغريدات المتقدم",
+  "originalDescription": "لوحة استخراج روابط تغريدات X.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "assets/index-Bgh7_gOM.js",
+    "assets/index-CYJq1re8.css",
+    "favicon.svg",
+    "index.html"
+  ]
+}
