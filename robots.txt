@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://x-archive-dashboard.vercel.app/sitemap.xml

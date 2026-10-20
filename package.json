@@ -1,0 +1,6 @@
+{
+  "name": "x-archive-dashboard",
+  "private": true,
+  "type": "module",
+  "license": "MIT"
+}
